@@ -2,7 +2,7 @@
 
 # 目录
 
-1. [**智慧岛Office AI PPT**](#智慧岛Office AI PPT](https://chat.lify.vip/aippt))
+1. [**智慧岛Office AI PPT**](##智慧岛office-ai-ppt))
 2. [**Gamma App**](#Gamma-App)
 3. [**Tome APP – 美学AI幻灯片**](#Tome-APP-–-美学AI幻灯片)
 4. [**Presentations.AI – 面向企业**](#Presentations.AI-–-面向企业)
