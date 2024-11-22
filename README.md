@@ -2,7 +2,7 @@
 
 # 目录
 
-1. [智慧岛Office AI PPT](#1智慧岛Office AI PPT)
+1. [智慧岛Office AI PPT](#1智慧岛Office-AI-PPT)
 2. [Gamma App](#gamma-app)
 3. [Tome APP - 美学AI幻灯片](#tome-app---美学ai幻灯片)
 4. [Presentations.AI - 面向企业](#presentationsai---面向企业)
