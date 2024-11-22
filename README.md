@@ -13,7 +13,7 @@
 
 ---
 
-## **1、[智慧岛Office AI PPT](https://chat.lify.vip/aippt)**
+## **1、智慧岛Office AI PPT**
 
 一键自动生成PPT
 
