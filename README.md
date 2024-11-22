@@ -3,13 +3,13 @@
 # 目录
 
 1. [智慧岛Office AI PPT](#1智慧岛Office-AI-PPT)
-2. [Gamma App](#gamma-app)
-3. [Tome APP - 美学AI幻灯片](#tome-app---美学ai幻灯片)
-4. [Presentations.AI - 面向企业](#presentationsai---面向企业)
-5. [SlidesAI.io](#slidesaiio)
-6. [Canva Doc to Deck](#canva-doc-to-deck)
-7. [Decktopus AI](#decktopus-ai)
-8. [Beautiful.AI](#beautifulai)
+2. [Gamma App](#2gamma-app)
+3. [Tome APP - 美学AI幻灯片](#3tome-app---美学ai幻灯片)
+4. [Presentations.AI - 面向企业](#4presentationsai---面向企业)
+5. [SlidesAI.io](#5slidesaiio)
+6. [Canva Doc to Deck](#6canva-doc-to-deck)
+7. [Decktopus AI](#7decktopus-ai)
+8. [Beautiful.AI](#8beautifulai)
 
 ---
 
@@ -60,7 +60,7 @@
 
 ---
 
-## **2、[Gamma App](https://gamma.app/)**
+## **2、Gamma App**
 
 点击链接直达官网>>[https://gamma.app](https://yixiaai.cn/sites/212.html)
 
@@ -72,7 +72,7 @@ Gamma App是一款在线演示制作平台，提供高效的PPT生成服务。�
 
 ---
 
-## **3、[Tome APP](https://tome.app/) - 美学AI幻灯片**
+## **3、Tome APP - 美学AI幻灯片**
 
 点击链接直达官网>>[https://tome.app/](https://tome.app/)
 
@@ -84,7 +84,7 @@ Gamma App是一款在线演示制作平台，提供高效的PPT生成服务。�
 
 ---
 
-## **4、[Presentations.AI](https://Presentations.AI) - 面向企业**
+## **4、Presentations.AI - 面向企业**
 
 点击链接直达官网>>[https://presentations.ai](https://presentations.ai)
 
@@ -96,7 +96,7 @@ Gamma App是一款在线演示制作平台，提供高效的PPT生成服务。�
 
 ---
 
-## **5、[SlidesAI.io](https://slidesai.io/)**
+## **5、SlidesAI.io**
 
 点击链接直达官网>>[https://slidesai.io](https://www.slidesai.io/)
 
@@ -108,7 +108,7 @@ Gamma App是一款在线演示制作平台，提供高效的PPT生成服务。�
 
 ---
 
-## **6、[Canva Doc to Deck](https://canva.com)**
+## **6、Canva Doc to Deck**
 
 点击链接直达官网>>[https://canva.com](https://canva.com)
 
@@ -120,7 +120,7 @@ Canva的这一AI功能让用户能够轻松将制作的设计直接转化为PPT�
 
 ---
 
-## **7、[Decktopus AI](https://www.decktopus.com)**
+## **7、Decktopus AI**
 
 点击链接直达官网>> [decktopus.com](https://www.decktopus.com/)
 
@@ -132,7 +132,7 @@ Decktopus AI直观操作，用户选择模板后，只需输入内容，系统�
 
 ---
 
-## **8、[Beautiful.AI](Beautiful.AI)**
+## **8、Beautiful.AI**
 
 **无需设计经验的智能幻灯片制作**
 
